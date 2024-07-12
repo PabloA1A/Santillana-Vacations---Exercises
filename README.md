@@ -13,6 +13,9 @@ All exercises must have their class diagrams.
 Statement:
 Make a program that, given the number of a month (1,2,3,3,4...12), presents the name of the month and determines the number of days it has.
 
+##### My diagram of the exercise made with https://app.diagrams.net/:
+![My diagram](<Captura de pantalla 2024-07-12 a las 23.08.23.png>)
+
 ### Exercise 2:
 
 #### Common elements
