@@ -25,6 +25,9 @@ Develop a program that searches for common elements in two arrays of integers.
 
 ![Element array](<Captura de pantalla 2024-07-12 a las 22.09.18.png>)
 
+##### My diagram of the exercise made with https://app.diagrams.net/:
+![My diagram](<Captura de pantalla 2024-07-13 a las 16.55.31.png>)
+
 ### Exercise 3:
 
 #### Amstrong

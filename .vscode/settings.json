@@ -6,5 +6,6 @@
         "bioethanol",
         "pantalla",
         "Santillana"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
