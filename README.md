@@ -40,6 +40,9 @@ You want to develop a program that determines whether a number is an Amstrong nu
 
 ![Example Math.](<Captura de pantalla 2024-07-12 a las 22.12.24.png>)
 
+##### My diagram of the exercise made with https://app.diagrams.net/:
+![My diagram](<Captura de pantalla 2024-07-13 a las 18.04.38.png>)
+
 ### Exercise 4:
 
 #### Automobile
