@@ -75,3 +75,6 @@ Modify the accelerate method so that if the maximum speed is exceeded a fine is 
 Add a method to determine if a vehicle has fines and another method to determine the total value of fines of a vehicle.
 
 ![Class diagrams](<Captura de pantalla 2024-07-12 a las 22.15.47.png>)
+
+##### My diagram of the exercise made with https://app.diagrams.net/:
+![My diagram](<Captura de pantalla 2024-07-13 a las 19.32.41.png>)

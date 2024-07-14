@@ -1,0 +1,13 @@
+package dev.pablo.exercise4;
+
+enum FuelType {
+    GASOLINE, BIOETHANOL, DIESEL, BIODIESEL, NATURAL_GAS
+}
+
+enum CarType {
+    CITY_CAR, SUBCOMPACT, COMPACT, FAMILY, EXECUTIVE, SUV
+}
+
+enum Color {
+    WHITE, BLACK, RED, ORANGE, YELLOW, GREEN, BLUE, PURPLE
+}
