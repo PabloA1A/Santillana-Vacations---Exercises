@@ -3,6 +3,10 @@ package dev.pablo.exercise4;
 import java.util.ArrayList;
 import java.util.List;
 
+import dev.pablo.exercise4.Enumerations.CarType;
+import dev.pablo.exercise4.Enumerations.Color;
+import dev.pablo.exercise4.Enumerations.FuelType;
+
 public class Car {
     private String brand;
     private int model;
@@ -132,7 +136,7 @@ public class Car {
     public void accelerate(int speed) {
         if (this.currentSpeed + speed > this.maxSpeed) {
             System.out.println("Cannot exceed the maximum speed of " + maxSpeed + " km/h");
-            fines.add(new Fine(100)); 
+            fines.add(new Fine(100));
             currentSpeed = maxSpeed;
         } else {
             currentSpeed += speed;

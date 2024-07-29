@@ -8,6 +8,10 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import dev.pablo.exercise4.Enumerations.CarType;
+import dev.pablo.exercise4.Enumerations.Color;
+import dev.pablo.exercise4.Enumerations.FuelType;
+
 public class CarTest {
     private Car car;
 
@@ -141,9 +145,9 @@ public class CarTest {
     @Test
     void testTotalFineAmount() {
         assertEquals(0, car.totalFineAmount());
-        car.accelerate(200);  
-        car.accelerate(10);   
-        car.accelerate(10);   
-        assertEquals(200, car.totalFineAmount());  
+        car.accelerate(200);
+        car.accelerate(10);
+        car.accelerate(10);
+        assertEquals(200, car.totalFineAmount());
     }
 }

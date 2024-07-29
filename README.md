@@ -23,8 +23,6 @@ Make a program that, given the number of a month (1,2,3,3,4...12), presents the 
 - Statement:
 Develop a program that searches for common elements in two arrays of integers.
 
-![Element array](<Captura de pantalla 2024-07-12 a las 22.09.18.png>)
-
 ##### My diagram of the exercise made with https://app.diagrams.net/:
 ![My diagram](<Captura de pantalla 2024-07-13 a las 16.55.31.png>)
 
@@ -37,8 +35,6 @@ You want to develop a program that determines whether a number is an Amstrong nu
 
 - For example, the number 371 is an Amstrong number since it has three digits and:
 371 = 33 + 73 + 13 = 27 + 343 + 1 = 371
-
-![Example Math.](<Captura de pantalla 2024-07-12 a las 22.12.24.png>)
 
 ##### My diagram of the exercise made with https://app.diagrams.net/:
 ![My diagram](<Captura de pantalla 2024-07-13 a las 18.04.38.png>)
@@ -73,8 +69,6 @@ A main method where you create a car, set its current speed to 100 km/h, increas
 Add to the Automobile class, an attribute to determine if the vehicle is automatic or not. Add the methods get and set for this attribute. Modify the constructor to initialize this attribute.
 Modify the accelerate method so that if the maximum speed is exceeded a fine is generated. This fine can be increased each time the vehicle tries to exceed the maximum speed allowed.
 Add a method to determine if a vehicle has fines and another method to determine the total value of fines of a vehicle.
-
-![Class diagrams](<Captura de pantalla 2024-07-12 a las 22.15.47.png>)
 
 ##### My diagram of the exercise made with https://app.diagrams.net/:
 ![My diagram](<Captura de pantalla 2024-07-13 a las 19.32.41.png>)
